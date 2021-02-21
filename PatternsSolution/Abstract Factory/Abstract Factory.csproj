@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Abstract_Factory</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Implementations\BulgarianRestaurant.cs~RF1c09353.TMP" />
+  </ItemGroup>
+
+</Project>
